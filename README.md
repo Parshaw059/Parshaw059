@@ -1,7 +1,7 @@
 
 <p align="center"><img width="468" height="114" alt="back" src="https://github.com/user-attachments/assets/8868c261-a1e7-4d39-97aa-461ef12e1bd8" alt="banner" />
 </p>
-# 👋 Hey, I'm Parshaw
+# 👋 Hey, I'm Parshaw Shah
 
 ```bash
 > whoami
