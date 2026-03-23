@@ -1,4 +1,7 @@
 ![Cyber](https://github.com/user-attachments/assets/c87bf194-86ba-4177-900b-464f0677cfbf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19573aa8-f94e-49bb-8b61-7e672f40a07e" alt="banner" />
+</p>
 # 👋 Hey, I'm Parshaw
 
 ```bash
