@@ -1,6 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/19573aa8-f94e-49bb-8b61-7e672f40a07e" alt="banner" />
+<p align="center"><img width="468" height="114" alt="back" src="https://github.com/user-attachments/assets/8868c261-a1e7-4d39-97aa-461ef12e1bd8" alt="banner" />
 </p>
 # 👋 Hey, I'm Parshaw
 
