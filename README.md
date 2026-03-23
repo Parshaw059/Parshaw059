@@ -1,8 +1,9 @@
-![Cyber]([https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif])
+![Cyber](https://github.com/user-attachments/assets/c87bf194-86ba-4177-900b-464f0677cfbf)
 # 👋 Hey, I'm Parshaw
 
 ```bash
 > whoami
+
 Parshaw Shah
 
 > role
