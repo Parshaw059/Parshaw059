@@ -2,19 +2,6 @@
 <p align="center"><img width="1983" height="793" alt="ChatGPT Image May 31, 2026, 12_59_16 PM" src="https://github.com/user-attachments/assets/fef857b6-bbee-4f97-bb33-9e91990dfa0c" />
 </p>
 
-```bash
-> who am i
-
-Parshaw Shah
-
-> role
-Cybersecurity Learner | Python Developer
-
-> focus
-Building tools • Learning security • Growing daily
-```
-
----
 
 ## 🧠 About Me
 
