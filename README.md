@@ -1,7 +1,8 @@
 
-<p align="center"><img width="468" height="114" alt="back" src="https://github.com/user-attachments/assets/8868c261-a1e7-4d39-97aa-461ef12e1bd8" alt="banner" />
+<p align="center"><img width="1983" height="793" alt="ChatGPT Image May 31, 2026, 12_59_16 PM" src="https://github.com/user-attachments/assets/fef857b6-bbee-4f97-bb33-9e91990dfa0c" />
 </p>
 # 👋 Hey, I'm Parshaw Shah
+
 
 ```bash
 > whoami
